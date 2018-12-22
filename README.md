@@ -5,3 +5,8 @@ A folder for the NFL Punt Analytics Competition
 
 ## File Descriptions
 - 
+
+## Data Exploration
+
+#### 12/22/2018 
+##### Summary Statistics
